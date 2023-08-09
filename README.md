@@ -1,4 +1,4 @@
-Salut, je suis @kanayi de nationalité Congo, Je suis intéressé par le developpement des site web et des applications.
+Salut, je suis @kanayi de nationalité Congo, Je suis intéressé par le developpement des sites web et des applications.
  J'apprends actuellement à programmer avec python et kotlin
 Je cherche à collaborer sur avec des entreprises dans tous les domaines informatique.
 - 📫 Comment me joindre...kanayiyannick@gmail.com
